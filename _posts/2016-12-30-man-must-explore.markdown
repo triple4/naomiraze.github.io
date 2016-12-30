@@ -1,8 +1,8 @@
 ---
 layout:     post
 comments:   true
-title:      "Петухи с утра встают и кукарекают"
-subtitle:   "Особенно когда кто-то хорошо покушал"
+title:      "Доброе утро, космонавты!"
+subtitle:   "Сегодня мы отправляемся в космос"
 date:       2016-12-30 12:00:00
 author:     "Naomi"
 header-img: "img/post-bg-06.jpg"
