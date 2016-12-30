@@ -1,7 +1,7 @@
 ---
 layout:     post
 comments:   true
-title:      "Я верю, что когда-нибудь мое очко растарабанят"
+title:      "Я верю, что когда-нибудь все будет в порядке"
 date:       2016-12-30 12:00:00
 author:     "Naomi"
 header-img: "img/post-bg-05.jpg"
