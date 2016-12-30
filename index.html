@@ -15,7 +15,7 @@ published: true
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Опубликовано {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}  {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Опубликовано {% if post.author %}<b>{{ post.author }}</b>{% else %}{{ site.title }}{% endif %}  {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
