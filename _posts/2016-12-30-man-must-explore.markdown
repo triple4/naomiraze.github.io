@@ -1,10 +1,10 @@
 ---
 layout:     post
-comments: true
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+comments:   true
+title:      "Петухи с утра встают и кукарекают"
+subtitle:   "Особенно когда кто-то хорошо покушал"
+date:       2016-12-30 12:00:00
+author:     "Naomi"
 header-img: "img/post-bg-06.jpg"
 ---
 
