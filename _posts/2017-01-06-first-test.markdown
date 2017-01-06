@@ -4,7 +4,7 @@ comments:   true
 title:      "Первый тест на нашем общем блоге"
 date:       2017-01-06 19:01:00
 author:     "Raze"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/post-bg-7.jpg"
 ---
 
 <p>Самый разнообразный текст может находится здесь.</p>
