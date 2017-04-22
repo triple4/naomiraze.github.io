@@ -1,13 +1,13 @@
 # Site settings
-title: NAOMI & RAZE
+title: Triple 4
 header-img: img/home-bg.jpg
 email: twinemenbox@gmail.com
-copyright_name: NAOMI & RAZE
-description: "Блог разработчиков."
+copyright_name: Triple 4
+description: "Блог."
 baseurl: ""
 url: "http://triple4.github.io"
-twitter_username: naomiraze
-github_username:  naomiraze
+twitter_username: triple4
+github_username:  triple4
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
